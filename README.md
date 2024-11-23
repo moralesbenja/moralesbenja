@@ -19,6 +19,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - 📫 **How to reach me:**  
   [Email me](mailto:benjaothonielmorales@gmail.com)  
-  [Connect on LinkedIn](www.linkedin.com/in/benjamin-morales-672548193)
+  [Connect on LinkedIn](https://www.linkedin.com/in/benjamin-morales-672548193)
 
 - ⚡ **Fun fact:** I’m a Fedora Workstation enthusiast! I thrive in the Linux environment and love customizing my setup for both efficiency and aesthetics.
